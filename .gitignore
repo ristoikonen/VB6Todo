@@ -1,0 +1,9 @@
+# Ignore temporary workspace tracking and user specific layouts
+*.vbw
+*.oca
+*.tmp
+*.obj
+*.log
+
+# Exclude security tokens if you are referencing access credentials
+.env
